@@ -1,0 +1,3 @@
+Richard Cleyton Chiaveli|Espaço Dev|Dotnet Core
+Jhonas Alves Moisés|Espaço Dev|VueJs
+Tiago Rudek|Espaço Dev|Gestão Projetos
